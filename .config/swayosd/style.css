@@ -1,0 +1,27 @@
+window {
+    background-color: rgba(0,0,0,1);
+    border: 1px solid rgba(255,255,255,0.2);  
+    border-radius: 15px;
+}
+* {
+font-family: "JetBrainsMono Nerd Font";
+}
+#container {
+    margin: 15px;
+}
+
+image {
+    color: #ffffff; 
+}
+
+trough {
+    background-color: #000000; 
+    border-radius: 15px;
+    min-height: 10px;
+}
+
+progress {
+    background-color: #ffffff; 
+    border-radius: 15px;
+}
+

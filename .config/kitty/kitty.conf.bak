@@ -1,0 +1,11 @@
+background_opacity 0.6
+dynamic_background_opacity yes
+cursor_trail 2
+window_padding_width 10
+shell fish
+
+
+# BEGIN_KITTY_THEME
+# Brogrammer
+include current-theme.conf
+# END_KITTY_THEME

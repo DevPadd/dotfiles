@@ -1,0 +1,34 @@
+{
+    "label" : "logout",
+    "action" : "hyprshutdown",
+    "keybind" : "e"
+}
+
+{
+    "label" : "shutdown",
+    "keybind" : "s",
+    "action": "hyprshutdown --post-cmd 'systemctl poweroff'"
+}
+
+{
+    "label" : "lock",
+    "action" : "hyprlock",
+    "keybind" : "l"
+}
+
+{
+    "label" : "reboot",
+    "action" : "hyprshutdown --post-cmd 'systemctl reboot'",
+    "keybind" : "r"
+}
+{
+    "label" : "suspend",
+    "action" : "systemctl suspend",
+    "keybind" : "u"
+}
+{
+    "label" : "hibernate",
+    "action" : "",
+    "keybind" : "h"
+}
+
