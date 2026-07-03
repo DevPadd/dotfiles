@@ -1,12 +1,12 @@
-### Credits
+### 💳 Credits
 
 Made this so i dont have to reconfig all programs from the start after a fresh install. rofi configs are from binnewbs (https://github.com/binnewbs/arch-hyprland) and also JaKooLit (https://github.com/JaKooLit). thanks gemini for making the fuzzel/rofi wallpaper switcher script xd
 
-### Apps
-File explorer: dolphin, yazi
-Terminal: kitty
-Launcher: rofi
-browser: helium
+### ⚙️ Apps
+File explorer: dolphin <br/>
+Terminal: kitty<br/>
+Launcher: rofi<br/>
+browser: helium<br/>
 
 
 ### 📸 Screenshots
