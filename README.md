@@ -6,6 +6,7 @@ Made this so i dont have to reconfig all programs from the start after a fresh i
 File explorer: dolphin <br/>
 Terminal: kitty<br/>
 Launcher: rofi<br/>
+Notification Daemon: swaync <br/>
 browser: helium<br/>
 
 
