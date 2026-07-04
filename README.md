@@ -7,26 +7,27 @@ File explorer: dolphin <br/>
 Terminal: kitty<br/>
 Launcher: rofi<br/>
 Notification Daemon: swaync <br/>
-browser: helium<br/>
+Browser: helium<br/>
+Shell: fish <b/>
 
 
 ### 📸 Screenshots
 
 <table>
 <tr>
-<td><img src="screenshots/2026-06-25-221935_hyprshot.png" width="450"></td>
-<td><img src="screenshots/2026-06-26-175642_hyprshot.png" width="450"></td>
+<td><img src="screenshots/2026-06-25-221935_hyprshot.png" width="500"></td>
+<td><img src="screenshots/2026-06-26-175642_hyprshot.png" width="500"></td>
 </tr>
 <tr>
-<td><img src="screenshots/2026-06-26-181316_hyprshot.png" width="450"></td>
-<td><img src="screenshots/2026-06-30-012057_hyprshot.png" width="450"></td>
+<td><img src="screenshots/2026-06-26-181316_hyprshot.png" width="500"></td>
+<td><img src="screenshots/2026-06-30-012057_hyprshot.png" width="500"></td>
 </tr>
 <tr>
-<td><img src="screenshots/2026-07-03-064448_hyprshot.png" width="450"></td>
-<td><img src="screenshots/2026-07-03-064555_hyprshot.png" width="450"></td>
+<td><img src="screenshots/2026-07-03-064448_hyprshot.png" width="500"></td>
+<td><img src="screenshots/2026-07-03-064555_hyprshot.png" width="500"></td>
 </tr>
 <tr>
-<td><img src="screenshots/2026-07-03-064936_hyprshot.png" width="450"></td>
-<td><img src="screenshots/2026-07-03-065427_hyprshot.png" width="450"></td>
+<td><img src="screenshots/2026-07-03-064936_hyprshot.png" width="500"></td>
+<td><img src="screenshots/2026-07-03-065427_hyprshot.png" width="500"></td>
 </tr>
 </table>
