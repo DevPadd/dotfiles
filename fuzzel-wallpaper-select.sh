@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 1. Define the absolute path to your wallpapers directory
-WALL_DIR="$HOME/Pictures/wallpapers"
+WALL_DIR="$HOME/wallpapers"
 
 # 2. Check if the directory actually exists
 if [ ! -d "$WALL_DIR" ]; then
