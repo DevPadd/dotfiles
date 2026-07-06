@@ -8,7 +8,7 @@ Terminal: kitty<br/>
 Launcher: rofi<br/>
 Notification Daemon: swaync <br/>
 Browser: helium<br/>
-wallpaper engine: awww (with waypaper)
+wallpaper engine: awww (with waypaper) <br/>
 Shell: fish <b/>
 
 
