@@ -9,8 +9,8 @@ Launcher: rofi<br/>
 Notification Daemon: swaync <br/>
 Browser: helium<br/>
 wallpaper engine: awww (with waypaper) <br/>
-Shell: fish <b/>
-editor: nvim (lazyvim) <b/>
+Shell: fish <br/>
+Editor: nvim (lazyvim) <br/>
 
 
 ### 📸 Screenshots
